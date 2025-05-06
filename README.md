@@ -1,3 +1,5 @@
 # Проектная работа Mesto
-
-https://github.com/Evgeniia-ru/mesto-project-ff
+Репозиторий: 
+https://github.com/Evgeniia-ru/mesto-project-ff 
+Сайт: 
+https://evgeniia-ru.github.io/mesto-project-ff/

@@ -21,3 +21,23 @@
   right: 0;
   z-index: 10;
 }
+
+.disabled {
+  display: none;
+}
+
+.likes-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.popup__content_confirm {
+  min-height: 100px;
+  max-height: 181px;
+}
+
+.likes-counter {
+  font-size: 13px;
+  margin-top: 3px;
+}
